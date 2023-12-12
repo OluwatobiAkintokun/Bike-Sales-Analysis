@@ -4,11 +4,17 @@
 The analysis of Bike Purchases dataset is directed toward addressing the following business inquiries.
 
 (1) Average Income Per Bike Purchase
+
 (2)Bike Purchase by Commute Distance
+
 (3) Bike Purchase by Age Bracket
+
 (4) Bike Purchase by Occupation
+
 (5) Total Income by Gender
+
 (6) Bike Purchase By Region
+
 
 # Dataset
 The Bike Purchase dataset comprises 13 columns, namely ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, and Purchased Bike. In total, there are 13 columns and 1026 rows in the raw dataset. [Download here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
@@ -25,11 +31,32 @@ The data cleaning and transformation were carried out using Ms Excel. The follow
 # Data analysis and insights
 
 (1) Average Income Per Bike Purchase
+
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/a67d0490-bb32-485f-9199-0ff645106509)
+
+
 (2)Bike Purchase by Commute Distance
+
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/82301325-b585-43ff-a1f2-5fc75d1ea388)
+
 (3) Bike Purchase by Age Bracket
+
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/fed8a199-2c9d-44de-b2bd-97c7b2454376)
+
 (4) Bike Purchase by Occupation
+
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/8fa9695d-951f-4ffd-9e71-384b69cb9d5b)
+
 (5) Total Income by Gender
+
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/442e2116-1d9d-4f19-8491-24ee61c472ad)
+
 (6) Bike Purchase By Region
 
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/b2e5c3e1-4c6f-4328-a22c-c8f4e376aecd)
+
 # Data Visualization
+
+I created a user-friendly and interactive dashboard with Ms Excel to showcase the outcomes of the data analysis.
+
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/8b204796-3a3b-4bee-9ed1-b817e3331dde)
