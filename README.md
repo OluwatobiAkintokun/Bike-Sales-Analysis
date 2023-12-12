@@ -28,16 +28,19 @@ The data cleaning and transformation were carried out using Ms Excel. The follow
 * I created an additional column named 'Age Bracket' using the IF formula. The formula is designed to categorize ages below 31 as "Adolescent", those equal to or above 31 as "Matured Age", and individuals aged 54 and above as "Old". The applied formula is: =IF(L2>54, "Old", IF(L2>=31, "Middle Age", IF(L2<31, "Adolescent", "Invalid"))).
 * I changed '10+ Miles' to '10 Miles and Above' in the 'Commute Distance' column to make it easier to understand.
 
-# Data analysis and insights
+# Data analysis and visualization.
 
-(1) Average Income Per Bike Purchase
+1. Average Income by Gender
 
-![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/a67d0490-bb32-485f-9199-0ff645106509)
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/04e5c2a8-ec3b-4d7d-a4d0-342c2f51d7c8)
+
 
 
 (2)Bike Purchase by Commute Distance
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/82301325-b585-43ff-a1f2-5fc75d1ea388)
+
+Insights: There's a connection between having a bike and how far someone travels to work. Short commutes, like 1-2 miles, show more bike owners on the line graph. In this analysis, there were fewer bike owners with commutes over 10 miles, suggesting longer commutes may lean away from bike ownership.
 
 (3) Bike Purchase by Age Bracket
 
@@ -55,7 +58,7 @@ The data cleaning and transformation were carried out using Ms Excel. The follow
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/b2e5c3e1-4c6f-4328-a22c-c8f4e376aecd)
 
-# Data Visualization
+# Dashboard
 
 I created a user-friendly and interactive dashboard with Ms Excel to showcase the outcomes of the data analysis.
 
