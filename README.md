@@ -5,17 +5,17 @@ Bike Purchases analysis is a project I have just completed using Microsoft Excel
 # Business questions
 The analysis of Bike Purchases dataset is directed toward addressing the following business inquiries.
 
-(1) Average Income Per Bike Purchase
+1. Average Income Per Bike Purchase
 
-(2)Bike Purchase by Commute Distance
+2. Bike Purchase by Commute Distance
 
-(3) Bike Purchase by Age Bracket
+3. Bike Purchase by Age Bracket
 
-(4) Bike Purchase by Occupation
+4. Bike Purchase by Occupation
 
-(5) Total Income by Gender
+5. Total Income by Gender
 
-(6) Bike Purchase By Region
+6. Bike Purchase By Region
 
 
 # Dataset
@@ -32,40 +32,39 @@ The data cleaning and transformation were carried out using Ms Excel. The follow
 
 # Data analysis and insights.
 
-1. Average Income by Gender
+1. Average Income by Gender.
 
-![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/04e5c2a8-ec3b-4d7d-a4d0-342c2f51d7c8)
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/93ae62af-9118-4228-abb3-7c2fdfd44518)
 
 Insight: Looking at the average income of bike owners based on gender, it appears that males are more inclined to own bikes than females. On average, male bike owners earn £60,124, while males without bikes earn £56,208. For females, the average income is £55,774 for bike owners and £53,440 for those without bikes. This indicates that individuals with higher incomes have more discretionary funds for bike ownership.
 
-(2)Bike Purchase by Commute Distance
+2. Bike Purchase by Commute Distance.
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/82301325-b585-43ff-a1f2-5fc75d1ea388)
 
 Insight: There's a connection between having a bike and how far someone travels to work. Short commutes, like 1-2 miles, show more bike owners on the line graph. In this analysis, there were fewer bike owners with commutes over 10 miles, suggesting longer commutes may lean away from bike ownership.
 
-(3) Bike Purchase by Age Bracket
+3. Bike Purchase by Age Bracket
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/fed8a199-2c9d-44de-b2bd-97c7b2454376)
 
 Insight: The age breakdown of bike purchased reveals that the highest number of bikes is owned by the middle age group (31-54), while the adolescent group (below 30) has the fewest bikes.
 
-(4) Bike Purchase by Occupation
+4. Bike Purchase by Occupation
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/8fa9695d-951f-4ffd-9e71-384b69cb9d5b)
 
 Insight: Looking at bike purchases by occupation, it's evident that skilled manual workers and professionals are the main groups buying bikes.
 
-(5) Total Income by Gender
+5. Total Income by Gender
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/442e2116-1d9d-4f19-8491-24ee61c472ad)
 
 Insight: The data shows females earn 47% of the total income, while males earn 53%. This suggests that, as males earn more, they might be spending a larger share on bike purchases.
 
-(6) Bike Purchase By Region
+6. Bike Purchase By Region
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/31f78d74-9fdd-4e11-aea0-c26f69017859)
-
 
 Insight: The data on bike purchases across regions is interesting. It indicates that more people buy bikes in North America compared to Europe and the Pacific, even though Europe has a larger population.
 
