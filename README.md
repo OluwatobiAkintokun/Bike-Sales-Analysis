@@ -1,6 +1,6 @@
 # Introduction
 
-Bike Purchases analysos is a project I have just completed using Microsoft Excel. This project tested my data analysis skills, including making recommendations from generated reports and creating an interactive dashboard using Excel.
+Bike Purchases analysis is a project I have just completed using Microsoft Excel. This project tested my data analysis skills, including making recommendations from generated reports and creating an interactive dashboard using Excel.
 
 # Business questions
 The analysis of Bike Purchases dataset is directed toward addressing the following business inquiries.
@@ -30,7 +30,7 @@ The data cleaning and transformation were carried out using Ms Excel. The follow
 * I created an additional column named 'Age Bracket' using the IF formula. The formula is designed to categorize ages below 31 as "Adolescent", those equal to or above 31 as "Matured Age", and individuals aged 54 and above as "Old". The applied formula is: =IF(L2>54, "Old", IF(L2>=31, "Middle Age", IF(L2<31, "Adolescent", "Invalid"))).
 * I changed '10+ Miles' to '10 Miles and Above' in the 'Commute Distance' column to make it easier to understand.
 
-# Data analysis and visualization.
+# Data analysis and insights.
 
 1. Average Income by Gender
 
@@ -73,4 +73,5 @@ Insight: The data on bike purchases across regions is interesting. It indicates 
 
 I created a user-friendly and interactive dashboard with Ms Excel to showcase the outcomes of the data analysis.
 
-![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/8b204796-3a3b-4bee-9ed1-b817e3331dde)
+![Uploading image.png…]()
+
