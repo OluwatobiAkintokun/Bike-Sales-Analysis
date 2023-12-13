@@ -60,7 +60,7 @@ Insight: Looking at bike purchases by occupation, it's evident that skilled manu
 
 ![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/442e2116-1d9d-4f19-8491-24ee61c472ad)
 
-Insight: The data shows females earn 47% of the total income, while males earn 53%. This suggests that, as males earn more, they might be spending a larger share on bike purchases.
+Insight: The data shows females earn 46% of the total income, while males earn 54%. This suggests that, as males earn more, they might be spending a larger share on bike purchases.
 
 6. Bike Purchase By Region
 
@@ -72,5 +72,6 @@ Insight: The data on bike purchases across regions is interesting. It indicates 
 
 I created a user-friendly and interactive dashboard with Ms Excel to showcase the outcomes of the data analysis.
 
-![Uploading image.png…]()
+![image](https://github.com/OluwatobiAkintokun/Bike-Sales-Analysis/assets/137109080/b2905d46-55e6-4a28-92ba-538876017ed5)
+
 
